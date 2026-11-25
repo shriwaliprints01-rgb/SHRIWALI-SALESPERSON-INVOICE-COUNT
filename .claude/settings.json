@@ -3,7 +3,10 @@
     "allow": [
       "Artifact",
       "Write",
-      "Edit"
+      "Edit",
+      "mcp__Zoho_Books__list_invoices",
+      "mcp__Zoho_Books__list_customer_payments",
+      "mcp__Zoho_Books__list_contacts"
     ]
   }
 }
